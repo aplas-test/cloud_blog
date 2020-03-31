@@ -1,20 +1,24 @@
 {
-  "id": "cloud_blog",
-  "name": "Cloud Blog",
-  "categoryId": "corporate",
-  "description": "Enterprise-wide leading edge open system",
-  "investment_24m": "485",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "70",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "27",
-  "deployment_date": "28/5/14",
-  "end_of_maintenance": "31/12/17",
-  "department": "Marketing",
-  "status": "Active",
-  "end_of_life": "20/8/18",
-  "months_to_renew_support": "31",
-  "sme_email": "Isador.Bysouth@memento.net.au",
-  "investment_number": "388"
+  "applications": [
+    {
+      "id": "cloud_blog",
+      "name": "Cloud Blog",
+      "categoryId": "corporate",
+      "description": "Enterprise-wide leading edge open system",
+      "investment_24m": "485",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "70",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "27",
+      "deployment_date": "28/5/14",
+      "end_of_maintenance": "31/12/17",
+      "department": "Marketing",
+      "status": "Active",
+      "end_of_life": "20/8/18",
+      "months_to_renew_support": "31",
+      "sme_email": "Isador.Bysouth@memento.net.au",
+      "investment_number": "388"
+    }
+  ]
 }
