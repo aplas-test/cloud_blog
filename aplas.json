@@ -9,23 +9,22 @@
       "description": "Enterprise-wide leading edge open system",
       "categoryId": "corporate",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "70",
       "status_color": "#00FF00",
       "department": "Marketing",
       "hostedtype": "OnPremise",
       "deployment_date": "28/5/14",
-      "investment_number": "388",
+      "investment_number": 388,
       "type": "OffShelf",
       "sme_email": "Isador.Bysouth@memento.net.au",
       "investment_24m": "485",
       "support_cost": "27",
       "end_of_life": "20/8/18",
-      "months_to_renew_support": "31",
+      "months_to_renew_support": 31,
       "end_of_maintenance": "31/12/17",
       "integrations": [
         {
-          "assetId": "int-137",
+          "id": "int-137",
           "name": "INT-137",
           "shortName": null,
           "version": "8.9",
@@ -33,7 +32,6 @@
           "payload": "Financial Closing Stock Company Unknown Shrink",
           "targetApplicationId": "sox_e-learning",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -46,7 +44,7 @@
           "golive_date": "11/6/03"
         },
         {
-          "assetId": "int-061",
+          "id": "int-061",
           "name": "INT-061",
           "shortName": null,
           "version": "0.2.7",
@@ -54,7 +52,6 @@
           "payload": "Online Product Feed and Order Cancellation",
           "targetApplicationId": "holistic_digital",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -67,7 +64,7 @@
           "golive_date": "20/8/11"
         },
         {
-          "assetId": "int-215",
+          "id": "int-215",
           "name": "INT-215",
           "shortName": null,
           "version": "0.58",
@@ -75,7 +72,6 @@
           "payload": "FlybuysPoints",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -88,7 +84,7 @@
           "golive_date": "3/10/16"
         },
         {
-          "assetId": "int-187",
+          "id": "int-187",
           "name": "INT-187",
           "shortName": null,
           "version": "1.97",
@@ -96,7 +92,6 @@
           "payload": "Future Invoice Summary RCTI",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -109,7 +104,7 @@
           "golive_date": "13/11/01"
         },
         {
-          "assetId": "int-469",
+          "id": "int-469",
           "name": "INT-469",
           "shortName": null,
           "version": "0.11",
@@ -117,7 +112,6 @@
           "payload": "Store transactions",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -130,7 +124,7 @@
           "golive_date": "1/2/11"
         },
         {
-          "assetId": "int-481",
+          "id": "int-481",
           "name": "INT-481",
           "shortName": null,
           "version": "2.1.3",
@@ -138,7 +132,6 @@
           "payload": "Labour Standards Data",
           "targetApplicationId": "granular_big_data",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
@@ -151,7 +144,7 @@
           "golive_date": "17/8/15"
         },
         {
-          "assetId": "int-372",
+          "id": "int-372",
           "name": "INT-372",
           "shortName": null,
           "version": "4.2.1",
@@ -159,7 +152,6 @@
           "payload": "Backdated on hand Raincheck Extract",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -172,7 +164,7 @@
           "golive_date": "15/4/11"
         },
         {
-          "assetId": "int-491",
+          "id": "int-491",
           "name": "INT-491",
           "shortName": null,
           "version": "9.21",
@@ -180,7 +172,6 @@
           "payload": "order quantities",
           "targetApplicationId": "holistic_digital",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -193,7 +184,7 @@
           "golive_date": "11/10/11"
         },
         {
-          "assetId": "int-233",
+          "id": "int-233",
           "name": "INT-233",
           "shortName": null,
           "version": "0.3.3",
@@ -201,7 +192,6 @@
           "payload": "Debtor - Hotcard",
           "targetApplicationId": "sox_e-learning",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -214,7 +204,7 @@
           "golive_date": "27/12/11"
         },
         {
-          "assetId": "int-160",
+          "id": "int-160",
           "name": "INT-160",
           "shortName": null,
           "version": "0.8",
@@ -222,7 +212,6 @@
           "payload": "Distribution Store Order Transactional Data",
           "targetApplicationId": "granular_big_data",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Muhammad Cammack",
           "status_color": "#00FF00",
           "department": "System Control",
